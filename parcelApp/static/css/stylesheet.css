@@ -1,0 +1,17 @@
+.welcome-title {
+    padding: 10px;
+    text-align: center;
+}
+.tracking-form-wrapper {
+    margin: 50px auto;
+}
+.page-title {
+    text-align: center;
+    margin: 50px;
+}
+#productColumn {
+    margin: 30px 0;
+}
+#orderDetailRow, #orderCard {
+    margin: 10px 0px 10px 0px;
+}
